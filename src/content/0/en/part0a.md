@@ -53,7 +53,7 @@ When you ask for help for a problem in the Discord/Telegram group your question 
 
 > <i>Adding a new person does not work, could you help me with that?</i>
 
-it is quite likely that nobody will not bother to answer to you. The bug can be <i>anywhere</i>.
+It is quite likely that nobody will bother to answer you. The bug can be <i>anywhere</i>.
 
 A better question could be
 
